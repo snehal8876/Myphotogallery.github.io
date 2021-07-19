@@ -177,7 +177,7 @@ nav .items .item:hover{
     }
   }
   @media (max-width: 700px) {
-    .wrapper nav .items{
+    .main nav .items{
       max-width: 600px;
     }
     nav .items span{
@@ -185,10 +185,10 @@ nav .items .item:hover{
     }
   }
   @media (max-width: 600px) {
-    .wrapper{
+    .main{
       margin: 30px auto;
     }
-    .wrapper nav .items{
+    .main nav .items{
       flex-wrap: wrap;
       justify-content: center;
     }
